@@ -7,7 +7,7 @@ Pi is a new Cryptocurrency with more than 8M users already and developed by the 
 
 Let me first introduce you to the Core Team, made up of Dr. Nicolas Kokkalis, Dr. Chengdiao Fan and Vincent McPhillip. I put you a link redirecting to their information if you are curious.
 
-thepispot.com
+https://thepispot.com
 
 The Core Team has a long-term project to offer a Cryptocurrency accessible to all but at the same time ecological because it will not ask you to invest crazy sums in computers or other steps nor in electricity / energy expenses as you can being Bitcoin mining but only from your Smartphone.
 
